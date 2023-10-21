@@ -23,5 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudiptodas369&show_icons=true&locale=en&layout=compact" alt="sudiptodas369" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudiptodas369&show_icons=true&locale=en" alt="sudiptodas369" /></p>
-
+[![An image of @sudiptodas369's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudiptodas369)](https://holopin.io/@sudiptodas369)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudiptodas369&" alt="sudiptodas369" /></p>
